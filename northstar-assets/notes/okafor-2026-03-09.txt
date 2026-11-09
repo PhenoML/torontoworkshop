@@ -1,0 +1,15 @@
+NORTHSTAR FAMILY HEALTH TEAM, MISSISSAUGA
+Progress note (SOAP)
+
+Patient: Okafor, J.            DOB: 1979-02-02 (47 y), Female
+Health card: [HCN]             Chart: NS-0051877
+Date of visit: 2026-03-09      Provider: Dr. A. Rahman, family physician
+Visit type: Intermediate assessment, in person, plus smoking cessation counselling (about 10 minutes of the visit).
+
+S: Here to review BP after elevated readings at two nursing visits (154/92 on 2026-02-23, 156/95 on 2026-03-02). Home readings over 2 weeks average 150/93. No headache, chest pain or visual symptoms. Partner reports no snoring. No NSAIDs, decongestants or oral contraceptive. Mother has hypertension. Alcohol 2 drinks a week. Smokes 15 cigarettes a day for 20 years, two previous quit attempts with patches. Says she is ready now and has chosen a quit date of 2026-03-23.
+
+O: BP 158/96 right arm, 156/94 left arm, HR 82. Weight 71.0 kg, BMI 26.8. Heart sounds normal, no bruits, fundi normal. Labs 2026-03-03 via OLIS: creatinine 68 umol/L, potassium 4.1 mmol/L, fasting glucose 5.4 mmol/L, LDL 3.1 mmol/L, urine ACR 0.9 mg/mmol. ECG today: sinus rhythm, no LVH.
+
+A: 1. Hypertension, new diagnosis, confirmed on repeated readings. 2. Tobacco use, 15 pack-years, ready to quit.
+
+P: Start amlodipine 5 mg daily; ankle swelling discussed. Home BP twice daily, recheck in 4 weeks. Smoking cessation counselling given. Varenicline started with standard titration, quit date in week 2; warned about nausea, vivid dreams and mood change, to stop and call if mood changes. Low sodium diet reviewed. Follow-up 4 weeks for BP and quit progress.

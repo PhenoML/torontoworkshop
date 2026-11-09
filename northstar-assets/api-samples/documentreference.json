@@ -1,0 +1,119 @@
+{
+  "resourceType": "DocumentReference",
+  "id": "doc-tremblay-20260304",
+  "meta": {
+    "versionId": "1",
+    "lastUpdated": "2026-03-04T10:41:12-05:00",
+    "source": "https://api.northstar-emr.example/fhir/r4"
+  },
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Progress note (SOAP) for M. Tremblay, signed 2026-03-04 by Dr. A. Rahman. Diabetes management visit. Content: text/plain, 1610 bytes, available as a Binary.</p></div>"
+  },
+  "masterIdentifier": {
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:uuid:5f1c2a7e-9b3d-4e6a-8c21-0d7f3b9a6e42"
+  },
+  "identifier": [
+    {
+      "system": "https://api.northstar-emr.example/identifiers/note",
+      "value": "NOTE-2026-0304-00117"
+    }
+  ],
+  "status": "current",
+  "docStatus": "final",
+  "type": {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "11506-3",
+        "display": "Progress note"
+      }
+    ],
+    "text": "Progress note (SOAP)"
+  },
+  "category": [
+    {
+      "coding": [
+        {
+          "system": "http://loinc.org",
+          "code": "34109-9",
+          "display": "Note"
+        }
+      ],
+      "text": "Clinical note"
+    }
+  ],
+  "subject": {
+    "reference": "Patient/pt-tremblay-0001",
+    "display": "M. Tremblay"
+  },
+  "date": "2026-03-04T10:41:12-05:00",
+  "author": [
+    {
+      "reference": "Practitioner/prac-rahman",
+      "display": "Dr. A. Rahman"
+    }
+  ],
+  "authenticator": {
+    "reference": "Practitioner/prac-rahman",
+    "display": "Dr. A. Rahman"
+  },
+  "custodian": {
+    "reference": "Organization/org-northstar-fht-mississauga",
+    "display": "Northstar Family Health Team, Mississauga"
+  },
+  "description": "Diabetes management visit, 25 minutes. Signed by Dr. A. Rahman on 2026-03-04.",
+  "securityLabel": [
+    {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-Confidentiality",
+          "code": "N",
+          "display": "normal"
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "attachment": {
+        "contentType": "text/plain",
+        "language": "en-CA",
+        "url": "https://api.northstar-emr.example/fhir/r4/Binary/bin-tremblay-20260304",
+        "size": 1610,
+        "hash": "k+1zhxOqet9fIKGWETBLjdbg8+I=",
+        "title": "tremblay-2026-03-04.txt",
+        "creation": "2026-03-04T10:41:12-05:00"
+      },
+      "format": {
+        "system": "http://ihe.net/fhir/ihe.formatcode.fhir/CodeSystem/formatcode",
+        "code": "urn:ihe:iti:xds:2017:mimeTypeSufficient",
+        "display": "mimeType Sufficient"
+      }
+    }
+  ],
+  "context": {
+    "encounter": [
+      {
+        "reference": "Encounter/enc-tremblay-20260304"
+      }
+    ],
+    "period": {
+      "start": "2026-03-04T10:10:00-05:00",
+      "end": "2026-03-04T10:35:00-05:00"
+    },
+    "practiceSetting": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "394814009",
+          "display": "General practice (specialty)"
+        }
+      ]
+    },
+    "sourcePatientInfo": {
+      "reference": "Patient/pt-tremblay-0001"
+    }
+  }
+}

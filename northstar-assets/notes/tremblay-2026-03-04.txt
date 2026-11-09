@@ -1,0 +1,15 @@
+NORTHSTAR FAMILY HEALTH TEAM, MISSISSAUGA
+Progress note (SOAP)
+
+Patient: Tremblay, M.          DOB: 1968-07-19 (57 y), Male
+Health card: [HCN]             Chart: NS-0048213
+Date of visit: 2026-03-04      Provider: Dr. A. Rahman, family physician
+Visit type: Diabetes management visit, in person. Time spent: 25 minutes, most of it on diabetes care and counselling.
+
+S: Booked diabetes review. Reviewed home glucose log for the past 4 weeks: fasting 8.5 to 10.2 mmol/L, two post-supper readings above 13 mmol/L, no hypoglycemia. Taking metformin 500 mg BID, ramipril 10 mg daily and atorvastatin 20 mg daily. Diet has slipped, more takeout and sweetened coffee. Walks 2 to 3 times weekly. Denies polyuria, visual change or foot numbness. Never smoker.
+
+O: BP 152/94 sitting, repeat after 5 minutes 148/92. HR 76 regular. Weight 94.2 kg, up 1.8 kg since 2025-11-12. Feet: pulses present, monofilament intact bilaterally, no ulcers. Labs 2026-02-26 via OLIS: A1c 8.9% (7.8% in 2025-09), fasting glucose 9.6 mmol/L, LDL 1.9 mmol/L, creatinine 84 umol/L, eGFR 88, urine ACR 1.4 mg/mmol.
+
+A: 1. Type 2 diabetes, poorly controlled, A1c 8.9%. 2. Hypertension, above target today. 3. Dyslipidemia, LDL at target on statin.
+
+P: Increase metformin to 1000 mg BID with meals; GI side effects reviewed. Diet counselling given: cut sweetened drinks and refined carbohydrate, plate method, handout provided. Continue ramipril and atorvastatin. Home BP log twice daily for 2 weeks; if average stays above 135/85 will add a second agent. Repeat A1c in 3 months. Retinal screening overdue, requisition given. Follow-up 6 weeks.

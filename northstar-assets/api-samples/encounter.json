@@ -1,0 +1,104 @@
+{
+  "resourceType": "Encounter",
+  "id": "enc-tremblay-20260304",
+  "meta": {
+    "versionId": "2",
+    "lastUpdated": "2026-03-04T10:41:12-05:00",
+    "source": "https://api.northstar-emr.example/fhir/r4"
+  },
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Ambulatory visit on 2026-03-04, 10:10 to 10:35 (25 minutes), with Dr. A. Rahman at Northstar Family Health Team, Mississauga. Reason: diabetes review.</p></div>"
+  },
+  "identifier": [
+    {
+      "system": "https://api.northstar-emr.example/identifiers/encounter",
+      "value": "ENC-2026-0304-00117"
+    }
+  ],
+  "status": "finished",
+  "class": {
+    "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+    "code": "AMB",
+    "display": "ambulatory"
+  },
+  "type": [
+    {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "390906007",
+          "display": "Follow-up encounter"
+        }
+      ],
+      "text": "Diabetes management visit"
+    }
+  ],
+  "serviceType": {
+    "coding": [
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/service-type",
+        "code": "124",
+        "display": "General Practice"
+      }
+    ]
+  },
+  "subject": {
+    "reference": "Patient/pt-tremblay-0001",
+    "display": "M. Tremblay"
+  },
+  "participant": [
+    {
+      "type": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v3-ParticipationType",
+              "code": "PPRF",
+              "display": "primary performer"
+            }
+          ]
+        }
+      ],
+      "individual": {
+        "reference": "Practitioner/prac-rahman",
+        "display": "Dr. A. Rahman"
+      }
+    }
+  ],
+  "period": {
+    "start": "2026-03-04T10:10:00-05:00",
+    "end": "2026-03-04T10:35:00-05:00"
+  },
+  "length": {
+    "value": 25,
+    "unit": "min",
+    "system": "http://unitsofmeasure.org",
+    "code": "min"
+  },
+  "reasonCode": [
+    {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "44054006",
+          "display": "Diabetes mellitus type 2"
+        }
+      ],
+      "text": "Diabetes review"
+    }
+  ],
+  "location": [
+    {
+      "location": {
+        "reference": "Location/loc-northstar-fht-mississauga",
+        "display": "Northstar Family Health Team, Mississauga"
+      },
+      "status": "completed"
+    }
+  ],
+  "serviceProvider": {
+    "reference": "Organization/org-northstar-fht-mississauga",
+    "display": "Northstar Family Health Team, Mississauga"
+  }
+}

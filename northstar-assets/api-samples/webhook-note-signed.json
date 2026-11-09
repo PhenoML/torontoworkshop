@@ -1,0 +1,55 @@
+{
+  "id": "evt_20260304_154112_8f3c21",
+  "event": "note.signed",
+  "api_version": "2025-10-01",
+  "occurred_at": "2026-03-04T10:41:12-05:00",
+  "delivery": {
+    "attempt": 1,
+    "signature_header": "X-Northstar-Signature",
+    "signature_algorithm": "HMAC-SHA256",
+    "retry_window_hours": 24
+  },
+  "clinic": {
+    "id": "clin-0231",
+    "name": "Northstar Family Health Team",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  "custodian": {
+    "practitioner_id": "prac-rahman",
+    "display": "Dr. A. Rahman",
+    "role": "family physician",
+    "fhir_url": "https://api.northstar-emr.example/fhir/r4/Practitioner/prac-rahman"
+  },
+  "patient": {
+    "id": "pt-tremblay-0001",
+    "chart_number": "NS-0048213",
+    "fhir_url": "https://api.northstar-emr.example/fhir/r4/Patient/pt-tremblay-0001"
+  },
+  "encounter": {
+    "id": "enc-tremblay-20260304",
+    "date": "2026-03-04",
+    "class": "AMB",
+    "fhir_url": "https://api.northstar-emr.example/fhir/r4/Encounter/enc-tremblay-20260304"
+  },
+  "note": {
+    "id": "doc-tremblay-20260304",
+    "kind": "progress_note",
+    "loinc_type": "11506-3",
+    "content_type": "text/plain",
+    "language": "en-CA",
+    "size_bytes": 1610,
+    "word_count": 248,
+    "sha1": "93ed738713aa7adf5f20a19611304b8dd6e0f3e2",
+    "signed_at": "2026-03-04T10:41:12-05:00",
+    "signed_by": "prac-rahman",
+    "amends_note_id": null,
+    "fhir_url": "https://api.northstar-emr.example/fhir/r4/DocumentReference/doc-tremblay-20260304",
+    "content_url": "https://api.northstar-emr.example/fhir/r4/Binary/bin-tremblay-20260304"
+  },
+  "billing": {
+    "claim_id": null,
+    "claim_status": "not_started",
+    "codes_entered_at_signoff": []
+  }
+}

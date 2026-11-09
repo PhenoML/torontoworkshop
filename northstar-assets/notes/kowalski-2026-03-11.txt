@@ -1,0 +1,15 @@
+NORTHSTAR FAMILY HEALTH TEAM, MISSISSAUGA
+Progress note (SOAP)
+
+Patient: Kowalski, A.          DOB: 1951-10-30 (74 y), Female
+Health card: [HCN]             Chart: NS-0032605
+Date of visit: 2026-03-11      Provider: Dr. L. Bianchi, family physician (same-day visit; rostered to Dr. A. Rahman)
+Visit type: Intermediate assessment, in person, with 12-lead ECG performed and interpreted in clinic.
+
+S: One week of intermittent palpitations and fatigue, worse on stairs. No chest pain, syncope or dyspnea at rest. No prior arrhythmia. Known hypertension on candesartan 16 mg daily, hypothyroidism on levothyroxine 88 mcg daily, type 2 diabetes managed by diet alone. No alcohol. No bleeding history or falls.
+
+O: Pulse irregularly irregular, rate 112. BP 138/84. SpO2 97% on room air. Weight 68.0 kg. No murmur, chest clear, no edema. ECG: atrial fibrillation, ventricular rate 110, no acute ST changes, QTc 430 ms. Labs 2026-01-20 via OLIS: TSH 2.1 mIU/L, A1c 6.4%, creatinine 79 umol/L, eGFR 70, hemoglobin 131 g/L, electrolytes normal.
+
+A: 1. Atrial fibrillation, new onset, rapid ventricular response, hemodynamically stable. CHA2DS2-VASc 4 (age, female, hypertension, diabetes). 2. Hypertension, controlled. 3. Type 2 diabetes, diet controlled, A1c 6.4%. 4. Hypothyroidism, euthyroid on current dose.
+
+P: Start apixaban 5 mg BID, no dose reduction criteria met; ODB Limited Use criteria documented. Start bisoprolol 2.5 mg daily for rate control. Bleeding precautions and reasons to go to emergency reviewed. Echocardiogram requisition and cardiology eReferral sent. Repeat CBC, creatinine and TSH in 2 weeks. Continue candesartan and levothyroxine. Follow-up 2 weeks with repeat ECG; Dr. Rahman copied.

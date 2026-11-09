@@ -1,0 +1,17 @@
+NORTHSTAR FAMILY HEALTH TEAM, MISSISSAUGA
+Progress note (SOAP)
+
+Patient: Samuels, B.           DOB: 1948-05-14 (77 y), Male
+Health card: [HCN]             Chart: NS-0019442
+Date of visit: 2026-03-16      Provider: Dr. A. Rahman, family physician
+Visit type: Post-discharge follow-up, in person, 30 minutes, with medication reconciliation against the faxed discharge summary (received 2026-03-10).
+
+S: Admitted 2026-03-03 to 2026-03-09 with decompensated heart failure. Echo in hospital: LVEF 30%. Breathing better since discharge, no orthopnea, mild ankle swelling by evening. Weighing daily, 82.4 kg this morning (discharge weight 83.0 kg). No dizziness or falls.
+
+Medications reconciled: sacubitril/valsartan 49/51 mg BID, carvedilol 12.5 mg BID, spironolactone 25 mg daily, empagliflozin 10 mg daily, furosemide 40 mg daily, apixaban 5 mg BID, metformin 500 mg BID. All covered under ODB. Stopped in hospital: amlodipine, glyburide.
+
+O: BP 108/66, HR 74 irregularly irregular, SpO2 96%. JVP not elevated. Chest clear. Trace ankle edema. Labs 2026-03-13 via OLIS: creatinine 128 umol/L, eGFR 52, potassium 4.8 mmol/L, sodium 137 mmol/L, NT-proBNP 1850 ng/L, hemoglobin 118 g/L, A1c 7.2%.
+
+A: 1. Heart failure with reduced ejection fraction, NYHA II, euvolemic. 2. CKD stage 3a, stable. 3. Type 2 diabetes, A1c 7.2%, acceptable for age. 4. Permanent atrial fibrillation, rate controlled, anticoagulated.
+
+P: Continue all medications; hold sacubitril/valsartan titration while BP near 108. Repeat potassium and creatinine in 2 weeks. Daily weights; call if gain over 2 kg in 3 days. Heart function clinic referral confirmed for 2026-04. Influenza and pneumococcal vaccination up to date. Follow-up 4 weeks.

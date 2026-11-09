@@ -1,0 +1,21 @@
+id,name,dob_year,sex,city,rostered,active_problems,last_visit
+NS-0048213,"Tremblay, M.",1968,M,Mississauga,yes,"Type 2 diabetes; hypertension; dyslipidemia",2026-03-04
+NS-0051877,"Okafor, J.",1979,F,Mississauga,yes,"Hypertension, new 2026-03; tobacco use, quit attempt in progress",2026-03-09
+NS-0032605,"Kowalski, A.",1951,F,Mississauga,yes,"Atrial fibrillation, new 2026-03; hypertension; type 2 diabetes, diet controlled; hypothyroidism",2026-03-11
+NS-0019442,"Samuels, B.",1948,M,Mississauga,yes,"Heart failure with reduced ejection fraction; CKD stage 3a; type 2 diabetes; permanent atrial fibrillation",2026-03-16
+NS-0027310,"Nakamura, K.",1962,F,Mississauga,yes,"Asthma; GERD; osteoarthritis both knees",2026-01-22
+NS-0040118,"Pereira, D.",1990,M,Brampton,yes,"Generalized anxiety disorder; eczema",2025-11-03
+NS-0036554,"Singh, H.",1957,M,Mississauga,yes,"Type 2 diabetes; hypertension; benign prostatic hyperplasia",2026-02-17
+NS-0053201,"Dubois, C.",1985,F,Oakville,yes,"Pregnancy, 28 weeks; iron deficiency anemia",2026-03-02
+NS-0044879,"Ahmed, F.",1973,F,Mississauga,yes,"Migraine without aura; hypothyroidism",2025-12-10
+NS-0021936,"O'Brien, P.",1945,M,Mississauga,yes,"COPD; hypertension; ischemic stroke 2022 with residual left weakness; hearing loss",2026-02-25
+NS-0049660,"Wong, W.",1971,M,Mississauga,no,"Chronic low back pain",2025-09-18
+NS-0038402,"Ivanova, S.",1966,F,Toronto,yes,"Rheumatoid arthritis on methotrexate; osteoporosis",2026-01-30
+NS-0055017,"Thompson, R.",1998,F,Mississauga,yes,"Polycystic ovary syndrome; acne",2025-10-14
+NS-0030775,"Mehta, V.",1955,M,Mississauga,yes,"Coronary artery disease, stent 2019; type 2 diabetes; dyslipidemia",2026-03-10
+NS-0046128,"Levesque, G.",1980,M,Milton,no,"No active problems; episodic care only",2025-06-05
+NS-0025593,"Abara, N.",1952,F,Mississauga,yes,"Breast cancer 2021, in remission on letrozole; hypertension; depression",2026-02-06
+NS-0052388,"Russo, E.",1988,F,Mississauga,yes,"Type 1 diabetes on insulin pump; celiac disease",2026-02-20
+NS-0033910,"Petrov, I.",1960,M,Brampton,yes,"Obesity; obstructive sleep apnea on CPAP; prediabetes",2025-12-19
+NS-0041736,"Williams, T.",1976,F,Mississauga,yes,"Hypertension; history of gestational diabetes; anxiety",2026-01-08
+NS-0058204,"Aziz, Y.",2008,M,Mississauga,yes,"ADHD; seasonal allergic rhinitis",2025-11-27

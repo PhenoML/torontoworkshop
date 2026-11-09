@@ -1,0 +1,51 @@
+# Secrets: PhenoML client credentials and tokens must never be committed
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+token.json
+
+# Paradev session attachments (keep .paradev/config.toml committable) and Claude Code local settings
+.paradev/attachments/
+.claude/settings.local.json
+
+# macOS and editors
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Office temp and lock files (deck exports)
+~$*
+*.tmp
+.~lock.*
+
+# Python (helper scripts, validation, PDF generation)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv*/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Node (if anyone prototypes against the TypeScript SDK)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Generated outputs and scratch work
+output/
+out/
+scratch/
+*.log
+validator_cli.jar
+report*.json
+validation-report*.json

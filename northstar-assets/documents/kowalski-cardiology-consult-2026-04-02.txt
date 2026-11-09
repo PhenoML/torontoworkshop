@@ -1,0 +1,40 @@
+HARBOURLINE CARDIOLOGY ASSOCIATES
+Suite 300, 1 Harbourline Court, Mississauga, Ontario
+Tel 416-555-0142. Fax 416-555-0143
+
+2026-04-02
+
+Dr. L. Bianchi
+Northstar Family Health Team
+Mississauga, Ontario
+Fax 416-555-0101
+
+Re: KOWALSKI, A. DOB 1951-10-30. Health card [HCN]
+Date seen: 2026-04-01. Consultation requested 2026-03-11 by eReferral.
+
+Dear Dr. Bianchi,
+
+Thank you for referring Mrs. Kowalski, a 74-year-old woman with newly detected atrial fibrillation, for assessment. I saw her in the clinic on 2026-04-01.
+
+History: Palpitations and fatigue began in early March 2026. Atrial fibrillation with a ventricular rate of 110 was documented on your ECG of 2026-03-11, when apixaban 5 mg BID and bisoprolol 2.5 mg daily were started. Since then her palpitations have settled and her exercise tolerance has improved, although she still notices fatigue climbing two flights of stairs. No chest pain, presyncope or syncope. No bleeding on apixaban. Past history includes hypertension (candesartan 16 mg daily), diet-controlled type 2 diabetes (A1c 6.4% in January 2026) and hypothyroidism (levothyroxine 88 mcg daily, TSH 2.1 mIU/L). She does not drink alcohol and has never smoked. There is no family history of sudden death or cardiomyopathy.
+
+Examination: BP 132/80, pulse irregularly irregular at 78 per minute, weight 68 kg. JVP normal. Heart sounds of variable intensity, no murmur. Chest clear, no peripheral edema.
+
+Investigations: ECG today shows atrial fibrillation with a controlled ventricular response at 76 per minute, QRS 92 ms, QTc 428 ms, no ischemic change. Transthoracic echocardiogram 2026-03-25: LVEF 60%, normal wall motion, mildly dilated left atrium (indexed volume 38 mL/m2), mild mitral regurgitation, no significant valve disease, normal right heart pressures. Bloodwork 2026-03-25: hemoglobin 130 g/L, creatinine 81 umol/L (eGFR 68), potassium 4.3 mmol/L, TSH 2.0 mIU/L.
+
+Impression: Persistent atrial fibrillation, now present for more than three weeks, with a structurally near-normal heart and good rate control. CHA2DS2-VASc score 4 (age 65 to 74, female sex, hypertension, diabetes). HAS-BLED score 1. Long-term anticoagulation is indicated and she is appropriately dosed on apixaban.
+
+Plan:
+1. Continue apixaban 5 mg BID indefinitely. The dose remains appropriate (age under 80, weight over 60 kg, creatinine under 133 umol/L).
+2. Continue bisoprolol 2.5 mg daily. Rate is well controlled; no change needed.
+3. We discussed rhythm control. Her symptoms are mild and improving, so we agreed on rate control for now. If fatigue persists at her 6-month review, I would offer elective electrical cardioversion after at least 3 further weeks of uninterrupted anticoagulation.
+4. Risk factor management: blood pressure at target; continue diabetes care through your clinic; weight is appropriate; no sleep apnea symptoms on screening questions.
+5. Annual CBC and renal function while on apixaban. Please let me know if her eGFR falls below 50.
+
+I will see her again in 6 months, sooner if symptoms change. Thank you for involving me in her care.
+
+Sincerely,
+
+Dr. R. Castellanos, MD, FRCPC
+Cardiology
+cc: Dr. A. Rahman, Northstar Family Health Team (rostered physician)
