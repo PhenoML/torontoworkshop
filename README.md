@@ -4,7 +4,9 @@ Assets for the PhenoML workshop "Hidden in Plain Text", Toronto, 2026-11-12.
 
 ## Start here
 
-[northstar-assets/README.md](northstar-assets/README.md): the clinical notes, PDFs, FHIR samples, fact sheet and patient panel for the demo and the build exercise, with the PhenoML docs page each step uses.
+- [northstar-assets/README.md](northstar-assets/README.md): the clinical notes, PDFs, FHIR samples, fact sheet and patient panel for the demo and sprints 1 and 2, with the PhenoML docs page each step uses.
+- [northstar-assets/walkthrough.md](northstar-assets/walkthrough.md): take one note through Construe, Lang2FHIR and FHIR2OMOP, with expected output.
+- [northstar-assets/codesystems/](northstar-assets/codesystems/README.md): the fictional WHIP fee and diagnostic codes to upload to Construe.
 
 ## PhenoML links
 

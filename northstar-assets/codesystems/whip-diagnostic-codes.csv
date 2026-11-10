@@ -1,0 +1,42 @@
+code,description,definition,code_type
+WD-101,Diabetes mellitus,"Type 1 or type 2 diabetes mellitus, with or without complications, including poorly controlled diabetes and diabetes managed by diet alone.",diagnostic
+WD-102,Prediabetes and impaired glucose tolerance,Elevated fasting glucose or A1c below the diabetes threshold; history of gestational diabetes.,diagnostic
+WD-103,Hypothyroidism,"Underactive thyroid, including patients euthyroid on thyroid replacement.",diagnostic
+WD-104,Other thyroid disorders,"Hyperthyroidism, goitre and thyroid nodules.",diagnostic
+WD-105,Disorders of lipid metabolism,"Hyperlipidemia, dyslipidemia, hypercholesterolemia and hypertriglyceridemia, including patients at target on a statin.",diagnostic
+WD-106,Obesity,"Obesity and overweight, including weight management.",diagnostic
+WD-201,Hypertension,"Essential hypertension, new or established, controlled or above target.",diagnostic
+WD-202,Atrial fibrillation and flutter,"Atrial fibrillation (new onset, paroxysmal, persistent or permanent) and atrial flutter.",diagnostic
+WD-203,Heart failure,"Heart failure with reduced or preserved ejection fraction, congestive heart failure and cardiomyopathy.",diagnostic
+WD-204,Coronary artery disease,"Angina, previous myocardial infarction, coronary stent or bypass.",diagnostic
+WD-205,Cerebrovascular disease,"Stroke, transient ischemic attack and their residual effects.",diagnostic
+WD-206,Palpitations and other cardiac symptoms,"Palpitations, chest discomfort or irregular heartbeat without a confirmed diagnosis.",diagnostic
+WD-301,Asthma,Asthma in children or adults.,diagnostic
+WD-302,Chronic obstructive pulmonary disease,"COPD, emphysema and chronic bronchitis.",diagnostic
+WD-303,Upper respiratory infection,"Common cold, pharyngitis, sinusitis and acute bronchitis.",diagnostic
+WD-304,Obstructive sleep apnea,"Sleep apnea, including patients on CPAP.",diagnostic
+WD-401,Anxiety disorders,"Generalized anxiety disorder, panic disorder and other anxiety states.",diagnostic
+WD-402,Depression,"Depressive episode, major depressive disorder and dysthymia.",diagnostic
+WD-403,Attention deficit hyperactivity disorder,ADHD in children or adults.,diagnostic
+WD-404,Tobacco use,"Tobacco or nicotine dependence, including patients in a quit attempt.",diagnostic
+WD-405,Alcohol and substance use,Alcohol use disorder and other substance use.,diagnostic
+WD-501,Gastroesophageal reflux,"GERD, heartburn and esophagitis.",diagnostic
+WD-502,Other digestive disorders,"Celiac disease, irritable bowel syndrome and other disorders of the digestive tract.",diagnostic
+WD-601,Chronic kidney disease,Chronic kidney disease of any stage.,diagnostic
+WD-602,Urinary tract infection,Cystitis and other urinary tract infections.,diagnostic
+WD-603,Benign prostatic hyperplasia,Enlarged prostate and lower urinary tract symptoms in men.,diagnostic
+WD-701,Osteoarthritis,Degenerative joint disease of any joint.,diagnostic
+WD-702,Rheumatoid arthritis and other inflammatory arthritis,"Rheumatoid arthritis, psoriatic arthritis and related conditions.",diagnostic
+WD-703,Back pain,Acute or chronic low back pain and neck pain.,diagnostic
+WD-704,Osteoporosis,Osteoporosis and low bone density.,diagnostic
+WD-801,Migraine and headache,"Migraine with or without aura, tension headache.",diagnostic
+WD-802,Dermatitis and eczema,"Atopic dermatitis, contact dermatitis and eczema.",diagnostic
+WD-803,Acne,Acne vulgaris.,diagnostic
+WD-804,Allergic rhinitis,Seasonal or perennial allergic rhinitis.,diagnostic
+WD-805,Hearing loss,Hearing loss of any cause.,diagnostic
+WD-901,Pregnancy,Normal pregnancy and prenatal care.,diagnostic
+WD-902,Menstrual and ovarian disorders,Polycystic ovary syndrome and menstrual disorders.,diagnostic
+WD-903,Anemia,Iron deficiency anemia and other anemias.,diagnostic
+WD-904,Malignant neoplasm of breast,"Breast cancer, including patients in remission on hormonal therapy.",diagnostic
+WD-910,Preventive care,"Immunization, screening and periodic health review with no active problem.",diagnostic
+WD-920,Administrative visit,"Forms, letters and other administrative services.",diagnostic
