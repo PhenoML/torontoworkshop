@@ -8,7 +8,7 @@
   },
   "text": {
     "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Blood pressure 152/94 mmHg (high) on 2026-03-04, sitting after 5 minutes rest, right upper arm, recorded by Dr. A. Rahman. Repeat reading 148/92 mmHg.</p></div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Blood pressure 152/94 mmHg (high) on 2026-03-04, sitting, right upper arm, recorded by Dr. A. Rahman. Repeat reading after 5 minutes: 148/92 mmHg.</p></div>"
   },
   "status": "final",
   "category": [
@@ -59,7 +59,7 @@
   ],
   "note": [
     {
-      "text": "Sitting, after 5 minutes rest. Repeat reading 148/92 mmHg."
+      "text": "Sitting. Repeat reading after 5 minutes: 148/92 mmHg."
     }
   ],
   "bodySite": {

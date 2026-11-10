@@ -1,6 +1,8 @@
 # Northstar EMR: fact sheet
 
-Northstar EMR is a fictional company created for the "Hidden in Plain Text" workshop (Toronto, 2026-11-12). It is your table's first customer. Invent anything else you need about Northstar and state your assumptions in your pitch.
+Northstar EMR is a fictional company created for the "Hidden in Plain Text" workshop (Toronto, 2026-11-12). Your table's first customer is either Northstar itself or one of the clinics that runs on it, depending on the company you pick in sprint 1. Invent anything else you need about Northstar or the clinic and state your assumptions in your pitch.
+
+The sample patients belong to the fictional Northstar Family Health Team in Mississauga. That is one clinic running on Northstar EMR that happens to share the name; it is not part of the vendor.
 
 ## What it is
 
@@ -17,7 +19,7 @@ Northstar EMR is a fictional company created for the "Hidden in Plain Text" work
 - Consult letters and inbound faxes stored as PDF. About 40 percent of these are scanned images with no text layer. Two samples are in `documents/`: a scanned discharge summary and a typed consult letter.
 - Lab results as HL7 v2 ORU messages from the provincial feed (OLIS), mapped to LOINC when the sending lab supplies a LOINC code.
 - Medications: free text in charts created before 2021, coded (DIN plus drug name, dose and sig) in newer charts.
-- A billing module that builds OHIP claims from fee and diagnostic codes the physician picks at sign-off, then submits them through MC EDT and reconciles the remittance advice.
+- A billing module that builds OHIP claims from fee and diagnostic codes the physician picks at sign-off, then submits them through MC EDT and reconciles the remittance advice. For the workshop, the fictional fee and diagnostic codes in `codesystems/` stand in for the OHIP schedule.
 - No research data warehouse, no de-identification tooling, no OMOP instance, no Condition or MedicationRequest resources. Problems and medications live in the note text and the CPP.
 
 ## What it exposes

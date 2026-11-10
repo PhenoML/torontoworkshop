@@ -1,0 +1,68 @@
+code,description,definition,code_type
+WF-110,Minor assessment,"Brief visit for a single minor complaint, with a focused history or examination of one part of the body.",fee
+WF-120,Intermediate assessment,"Standard office visit: history of the presenting complaint, examination of one or more systems, and advice or a prescription. The default visit code when no more specific code applies.",fee
+WF-130,General assessment,"Full history and examination of all body systems for a new or complex problem, including review of past history, medications and family history.",fee
+WF-140,"Periodic health visit, adult","Scheduled preventive visit for an adult, with age-appropriate screening, immunization review and counselling.",fee
+WF-145,"Periodic health visit, child","Scheduled well-child visit with growth, development and immunization review.",fee
+WF-150,Consultation,"Assessment requested in writing by another physician, with a written report back to the referring physician.",fee
+WF-160,Repeat consultation,Further assessment of the same problem for the same referring physician within 12 months of a consultation.,fee
+WF-210,Diabetes management visit,"Visit focused on diabetes care: review of glucose readings or log, A1c and other results, adjustment of diabetes medication, and counselling on diet, exercise or self-management. Billed with a diabetes diagnostic code.",fee
+WF-220,Heart failure management visit,"Visit focused on heart failure care: volume status, daily weights, adjustment of heart failure medication and patient education. Billed with a heart failure diagnostic code.",fee
+WF-230,"Smoking cessation counselling, first session","Dedicated counselling to help a patient quit tobacco: readiness, quit date, pharmacotherapy options and relapse prevention. Billed in addition to the visit when at least 10 minutes are spent on counselling.",fee
+WF-231,"Smoking cessation counselling, follow-up",Follow-up counselling session for a patient in an active quit attempt.,fee
+WF-240,Individual counselling,"Counselling of a patient on a medical problem, lifestyle or treatment, per unit of at least 20 minutes, when counselling is most of the visit.",fee
+WF-250,"Psychotherapy, individual","Structured psychotherapy or mental health counselling with one patient, per unit of at least 30 minutes.",fee
+WF-260,Post-discharge follow-up visit,"Office visit within 14 days of a hospital discharge, including reconciliation of discharge medications against the discharge summary.",fee
+WF-270,Medication review,"Structured review of all of a patient's medications for interactions, duplication, adherence and deprescribing.",fee
+WF-310,"Electrocardiogram, technical component",Recording of a 12-lead ECG in the office.,fee
+WF-311,"Electrocardiogram, interpretation",Physician interpretation and written report of a 12-lead ECG.,fee
+WF-320,Spirometry,"Pulmonary function testing with spirometry, before and after bronchodilator, with interpretation.",fee
+WF-410,Immunization,"Administration of a vaccine by injection, with or without a visit on the same day.",fee
+WF-420,Intramuscular or subcutaneous injection,Administration of a therapeutic injection other than a vaccine.,fee
+WF-510,"Virtual visit, video",Assessment by secure video when the patient is not in the office.,fee
+WF-520,"Virtual visit, telephone",Assessment by telephone when the patient is not in the office.,fee
+WF-610,Workplace insurance form,"Completion of a workplace injury or insurance form, billed to the workplace insurer rather than the provincial plan.",fee
+WF-620,"Third-party form, uninsured","Completion of a form or letter not covered by the plan, billed to the patient or a third party.",fee
+WF-710,Prenatal visit,Routine antenatal visit during pregnancy.,fee
+WF-810,Nurse visit,"Visit with a clinic nurse for a blood pressure check, injection, dressing or education, under physician supervision.",fee
+WD-101,Diabetes mellitus,"Type 1 or type 2 diabetes mellitus, with or without complications, including poorly controlled diabetes and diabetes managed by diet alone.",diagnostic
+WD-102,Prediabetes and impaired glucose tolerance,Elevated fasting glucose or A1c below the diabetes threshold; history of gestational diabetes.,diagnostic
+WD-103,Hypothyroidism,"Underactive thyroid, including patients euthyroid on thyroid replacement.",diagnostic
+WD-104,Other thyroid disorders,"Hyperthyroidism, goitre and thyroid nodules.",diagnostic
+WD-105,Disorders of lipid metabolism,"Hyperlipidemia, dyslipidemia, hypercholesterolemia and hypertriglyceridemia, including patients at target on a statin.",diagnostic
+WD-106,Obesity,"Obesity and overweight, including weight management.",diagnostic
+WD-201,Hypertension,"Essential hypertension, new or established, controlled or above target.",diagnostic
+WD-202,Atrial fibrillation and flutter,"Atrial fibrillation (new onset, paroxysmal, persistent or permanent) and atrial flutter.",diagnostic
+WD-203,Heart failure,"Heart failure with reduced or preserved ejection fraction, congestive heart failure and cardiomyopathy.",diagnostic
+WD-204,Coronary artery disease,"Angina, previous myocardial infarction, coronary stent or bypass.",diagnostic
+WD-205,Cerebrovascular disease,"Stroke, transient ischemic attack and their residual effects.",diagnostic
+WD-206,Palpitations and other cardiac symptoms,"Palpitations, chest discomfort or irregular heartbeat without a confirmed diagnosis.",diagnostic
+WD-301,Asthma,Asthma in children or adults.,diagnostic
+WD-302,Chronic obstructive pulmonary disease,"COPD, emphysema and chronic bronchitis.",diagnostic
+WD-303,Upper respiratory infection,"Common cold, pharyngitis, sinusitis and acute bronchitis.",diagnostic
+WD-304,Obstructive sleep apnea,"Sleep apnea, including patients on CPAP.",diagnostic
+WD-401,Anxiety disorders,"Generalized anxiety disorder, panic disorder and other anxiety states.",diagnostic
+WD-402,Depression,"Depressive episode, major depressive disorder and dysthymia.",diagnostic
+WD-403,Attention deficit hyperactivity disorder,ADHD in children or adults.,diagnostic
+WD-404,Tobacco use,"Tobacco or nicotine dependence, including patients in a quit attempt.",diagnostic
+WD-405,Alcohol and substance use,Alcohol use disorder and other substance use.,diagnostic
+WD-501,Gastroesophageal reflux,"GERD, heartburn and esophagitis.",diagnostic
+WD-502,Other digestive disorders,"Celiac disease, irritable bowel syndrome and other disorders of the digestive tract.",diagnostic
+WD-601,Chronic kidney disease,Chronic kidney disease of any stage.,diagnostic
+WD-602,Urinary tract infection,Cystitis and other urinary tract infections.,diagnostic
+WD-603,Benign prostatic hyperplasia,Enlarged prostate and lower urinary tract symptoms in men.,diagnostic
+WD-701,Osteoarthritis,Degenerative joint disease of any joint.,diagnostic
+WD-702,Rheumatoid arthritis and other inflammatory arthritis,"Rheumatoid arthritis, psoriatic arthritis and related conditions.",diagnostic
+WD-703,Back pain,Acute or chronic low back pain and neck pain.,diagnostic
+WD-704,Osteoporosis,Osteoporosis and low bone density.,diagnostic
+WD-801,Migraine and headache,"Migraine with or without aura, tension headache.",diagnostic
+WD-802,Dermatitis and eczema,"Atopic dermatitis, contact dermatitis and eczema.",diagnostic
+WD-803,Acne,Acne vulgaris.,diagnostic
+WD-804,Allergic rhinitis,Seasonal or perennial allergic rhinitis.,diagnostic
+WD-805,Hearing loss,Hearing loss of any cause.,diagnostic
+WD-901,Pregnancy,Normal pregnancy and prenatal care.,diagnostic
+WD-902,Menstrual and ovarian disorders,Polycystic ovary syndrome and menstrual disorders.,diagnostic
+WD-903,Anemia,Iron deficiency anemia and other anemias.,diagnostic
+WD-904,Malignant neoplasm of breast,"Breast cancer, including patients in remission on hormonal therapy.",diagnostic
+WD-910,Preventive care,"Immunization, screening and periodic health review with no active problem.",diagnostic
+WD-920,Administrative visit,"Forms, letters and other administrative services.",diagnostic
